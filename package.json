@@ -34,7 +34,7 @@
     "through2": "~2.0.3",
     "underscore": "~1.13.1",
     "url2": "~1.0.4",
-    "vinyl": "~2.1.0"
+    "vinyl": "~2.2.1"
   },
   "devDependencies": {
     "eslint": "~4.10.0",
